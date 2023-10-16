@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-real-madrid-player-react/static/css/main.af269d8a.css",
+    "main.js": "/random-real-madrid-player-react/static/js/main.d54b1317.js",
+    "static/js/787.b578fc2b.chunk.js": "/random-real-madrid-player-react/static/js/787.b578fc2b.chunk.js",
+    "index.html": "/random-real-madrid-player-react/index.html",
+    "main.af269d8a.css.map": "/random-real-madrid-player-react/static/css/main.af269d8a.css.map",
+    "main.d54b1317.js.map": "/random-real-madrid-player-react/static/js/main.d54b1317.js.map",
+    "787.b578fc2b.chunk.js.map": "/random-real-madrid-player-react/static/js/787.b578fc2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af269d8a.css",
+    "static/js/main.d54b1317.js"
+  ]
+}
